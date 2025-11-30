@@ -3,7 +3,7 @@ A GenAI FullStack Developer
 
 My Portfolio 👉 🌐 [hassandev-beta.vercel.app](https://hassandev-beta.vercel.app) For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 I’m currently working on: Building AI-powered web apps — focusing on real-world Generative AI use cases.
+- 🔭 I’m currently working on: Building AI-powered web apps — focusing on Generative AI use cases.
 - 🌱 I’m currently learning: DevOps practices, CI/CD pipelines, and cloud deployment.
 - 👯 I’m looking to collaborate on: AI-driven SaaS projects, hackathons, and open-source tools.
 - 💬 Ask me about: Next.js, React, RAG, AI agents, Gen AI apps and backend architectures.
