@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Mohd Hassan
 A GenAI FullStack Developer
 
-My Portfolio 👉 🌐 [hassandev-beta.vercel.app](https://hassandev-beta.vercel.app) For Collaboration/Project or Anything Else. 😊😊
+My Portfolio 👉 🌐 [hassandev-beta.vercel.app](https://hassandev-beta.vercel.app) For Collaboration/Project or Anything Else. 😊
 
 - 🔭 I’m currently working on: Building AI-powered web apps — focusing on Generative AI use cases.
 - 🌱 I’m currently learning: DevOps practices, CI/CD pipelines, and cloud deployment.
