@@ -1,4 +1,4 @@
-# 💫 Hii 👋, I'm Mohd Hassan
+# 💫 Hii 👋, I'm Mohammed Hassan
 A FullStack GenAI Developer
 
 My Portfolio 👉 🌐 [hassandev-beta.vercel.app](https://hassandev-beta.vercel.app) For Collaboration/Project or Anything Else. 😊
