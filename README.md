@@ -12,7 +12,7 @@ Full-Stack & GenAI Developer — I build AI-powered applications using Next.js, 
 
 📫 Reach me: ansarimohdhassan3@gmail.com
 
-🌐 Portfolio: hassandev-beta.vercel.app
+🌐 Portfolio: [hassandev-beta.vercel.app](https://hassandev-beta.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-hassan17) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mohdhassana04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansarimohdhassan3@gmail.com) 
