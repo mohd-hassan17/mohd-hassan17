@@ -1,13 +1,13 @@
 # 💫 Hii 👋, I'm Mohammed Hassan
-A FullStack Developer
 
-My Portfolio 👉 🌐 [hassandev-beta.vercel.app](https://hassandev-beta.vercel.app) For Collaboration/Project or Anything Else. 😊
+Full-Stack & GenAI Developer — I build AI-powered applications using Next.js, Node.js, TypeScript, and RAG pipelines.
 
-- 🔭 I’m currently working on: Building AI-powered web apps — focusing on Generative AI use cases.
-- 🌱 I’m currently learning: DevOps practices, CI/CD pipelines, and cloud deployment.
-- 👯 I’m looking to collaborate on: AI-driven SaaS projects, hackathons, and open-source tools.
-- 💬 Ask me about: Next.js, React, RAG, AI agents, Gen AI apps and backend architectures.
-- 📫 How to reach me:  ansarimohdhassan3@gmail.com
+🔭 Currently building: Production-ready GenAI applications
+🌱 Learning: DevOps, microservices architecture, system design, and cloud deployment
+👯 Open to: AI-driven SaaS projects, hackathons, and open-source collabs
+💬 Ask me about: Next.js, RAG, AI agents, LLMs, and backend architecture
+📫 Reach me: ansarimohdhassan3@gmail.com
+🌐 Portfolio: hassandev-beta.vercel.app
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-hassan17) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mohdhassana04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansarimohdhassan3@gmail.com) 
