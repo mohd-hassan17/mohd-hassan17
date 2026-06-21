@@ -3,10 +3,15 @@
 Full-Stack & GenAI Developer — I build AI-powered applications using Next.js, Node.js, TypeScript, and RAG pipelines.
 
 🔭 Currently building: Production-ready GenAI applications
+
 🌱 Learning: DevOps, microservices architecture, system design, and cloud deployment
+
 👯 Open to: AI-driven SaaS projects, hackathons, and open-source collabs
+
 💬 Ask me about: Next.js, RAG, AI agents, LLMs, and backend architecture
+
 📫 Reach me: ansarimohdhassan3@gmail.com
+
 🌐 Portfolio: hassandev-beta.vercel.app
 
 ## 🌐 Socials:
