@@ -1,44 +1,148 @@
-# 💫 Hii 👋, I'm Mohammed Hassan
+<p align="center">
+  <strong>Full Stack Developer | BSc IT Student | Cloud Enthusiast</strong>
+</p>
 
-Full-Stack & GenAI Developer — I build AI-powered applications using Next.js, 
-Node.js, TypeScript, and RAG pipelines.
+<p align="center">
+  Building scalable, production-ready web applications with clean architecture and modern tech
+</p>
 
-🔭 Currently building: Production-ready GenAI applications
 
-🌱 Learning: DevOps, microservices architecture, system design, and cloud deployment
+## 🚀 About Me
 
-👯 Open to: AI-driven SaaS projects, hackathons, and open-source collabs
+I'm a passionate full stack developer focused on creating robust, scalable applications that solve real problems. My approach centers on clean code, thoughtful architecture, and continuous learning through building.
 
-💬 Ask me about: Next.js, RAG, AI agents, LLMs, and backend architecture
+```javascript
+const sahil = {
+  location: "Mumbai, India",
+  education: "BSc in Information Technology",
+  currentFocus: ["Backend Engineering", "Frontend Engineering", "Cloud Architecture", "System Design"],
+  interests: ["Distributed Systems", "Performance Optimization", "DevOps"],
+  philosophy: "Learning by building. Every project teaches more about systems, performance and design.",
+  openTo: ["Collaborations", "Internships", "Open Source Contributions"]
+};
+```
 
-📫 Reach me: ansarimohdhassan3@gmail.com
+### 🎯 What I'm Working On
 
-🌐 Portfolio: [hassandev](https://hassandev-beta.vercel.app/)
+**Blog Application**
+- Secure authentication and authorization system
+- Modular, scalable architecture
+- Intuitive UI/UX workflows
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-hassan17) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mohdhassana04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansarimohdhassan3@gmail.com) 
+**Currently Exploring:**
+- Scalable backend architectures
+- Distributed systems and microservices
+- Cloud-native development practices
+- CI/CD Pipelines
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- Snake Game Repo View -->
+## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+### Frontend
+![React](https://dzdw2zccyu2wu.cloudfront.net/overview/Frontend.svg)
+
+### Backend
+![NodeJS](https://dzdw2zccyu2wu.cloudfront.net/overview/Backend.svg)
+
+### Tools & DevOps
+![Tools](https://dzdw2zccyu2wu.cloudfront.net/overview/Tools&DevOps.svg)
+
+### Cloud & Integration
+![Cloud](https://dzdw2zccyu2wu.cloudfront.net/overview/Cloud&Integration.svg)
+
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohd-hassan17&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohd-hassan17&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-hassan17&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+**Core Technologies:**
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express, RESTful APIs, WebSockets
+- **Database:** MongoDB, Redis
+- **DevOps:** Docker, Git, CI/CD
+- **Cloud:** AWS, GCD, Cloudflare
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohd-hassan17&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=mohd-hassan17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎨 Featured Projects
+
+### [StoreMyStuff](https://github.com/KunalKhandekar/Storage-App)
+> Full-stack cloud storage platform combining modern web tech with AWS infrastructure
+
+**Tech Stack:** MERN Stack, AWS S3, Redis, Razorpay
+
+**Key Features:**
+- Secure user registration and login system
+- Drag-and-drop file upload with progress indicators
+- File sharing with links and permissions
+- Folder creation and organization
+- File preview and download capabilities
+- Responsive design for mobile and desktop
+- Storage quota management
+
+### [CICD-SERVER](https://github.com/KunalKhandekar/Custom-CICD-Server)
+> Production-ready CI/CD server built without third-party platforms—complete control over your deployment pipeline
+
+**Tech:** Node.js, Shell Scripting, Git Hooks, PM2  
+**Features:** 
+- Automated build and deployment on git push
+- Monorepo support with independent project pipelines
+- Custom deployment scripts and configurations
+- Webhook-triggered builds
+- Build logs and notification system
+
+#### More Projects Coming Soon... 🚧
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KunalKhandekar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalKhandekar&theme=dark&hide_border=false" height="170" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalKhandekar&theme=dark&hide_border=false&layout=compact&langs_count=8" height="170" alt="Top Languages" />
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KunalKhandekar&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <a href="mailto:kunalkhandekar.dev@gmail.com">
+          <img src="https://dzdw2zccyu2wu.cloudfront.net/overview/gmail.png" width="50" /><br/>
+          <sub><b>Email Me</b></sub>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="https://linkedin.com/in/sahil-khandekar-dev">
+          <img src="https://dzdw2zccyu2wu.cloudfront.net/overview/linkedin.png" width="50" /><br/>
+          <sub><b>Connect on LinkedIn</b></sub>
+        </a>
+      </td>
+      <td align="center" width="200">
+  <a href="https://x.com/_kunalkhandekar">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="50" /><br/>
+    <sub><b>Follow on X</b></sub>
+  </a>
+</td>
+    </tr>
+  </table>
+</div>
+
+
+<div align="center">
+
+*"The best way to predict the future is to build it."* – Alan Kay
+
+> **Always learning. Always building. Always improving.**
+
+
+</div>
