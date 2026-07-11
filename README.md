@@ -1,226 +1,148 @@
-<h1 align="center">Hi 👋, I'm Mohammed Hassan</h1>
-
 <p align="center">
-  <strong>Full Stack Developer | GenAI Developer | BSc IT Graduate</strong>
+  <strong>Full Stack Developer | BSc IT Student | Cloud Enthusiast</strong>
 </p>
 
 <p align="center">
-Building production-ready full-stack applications powered by AI, modern web technologies, and scalable backend architectures.
+  Building scalable, production-ready web applications with clean architecture and modern tech
 </p>
 
----
 
 ## 🚀 About Me
 
-I'm a Full Stack Developer passionate about building modern web applications and AI-powered products. I enjoy turning ideas into scalable, production-ready applications with clean architecture, great user experience, and efficient backend systems.
+I'm a passionate full stack developer focused on creating robust, scalable applications that solve real problems. My approach centers on clean code, thoughtful architecture, and continuous learning through building.
 
 ```javascript
-const mohammed = {
+const sahil = {
   location: "Mumbai, India",
-
-  education: "BSc Information Technology (2026)",
-
-  currentlyBuilding: [
-    "AI Applications",
-    "RAG Systems",
-    "Full Stack Products"
-  ],
-
-  tech: {
-    frontend: [
-      "React",
-      "Next.js",
-      "TypeScript",
-      "Tailwind CSS"
-    ],
-
-    backend: [
-      "Node.js",
-      "Express",
-      "FastAPI",
-      "REST APIs"
-    ],
-
-    databases: [
-      "PostgreSQL",
-      "MongoDB",
-      "Redis"
-    ],
-
-    ai: [
-      "OpenAI",
-      "LangChain",
-      "LangGraph",
-      "RAG",
-      "AI Agents",
-      "MCP"
-    ],
-
-    devops: [
-      "Docker",
-      "GitHub Actions",
-      "Nginx",
-      "Vercel",
-      "Render"
-    ]
-  },
-
-  philosophy:
-    "Build products, solve real problems, and keep learning every day.",
-
-  openTo: [
-    "Full Stack Roles",
-    "GenAI Roles",
-    "Open Source"
-  ]
+  education: "BSc in Information Technology",
+  currentFocus: ["Backend Engineering", "Frontend Engineering", "Cloud Architecture", "System Design"],
+  interests: ["Distributed Systems", "Performance Optimization", "DevOps"],
+  philosophy: "Learning by building. Every project teaches more about systems, performance and design.",
+  openTo: ["Collaborations", "Internships", "Open Source Contributions"]
 };
 ```
 
----
+### 🎯 What I'm Working On
 
-# 💻 Tech Stack
+**Blog Application**
+- Secure authentication and authorization system
+- Modular, scalable architecture
+- Intuitive UI/UX workflows
+
+**Currently Exploring:**
+- Scalable backend architectures
+- Distributed systems and microservices
+- Cloud-native development practices
+- CI/CD Pipelines
+
+
+## 💻 Tech Stack
+
+<div align="center">
 
 ### Frontend
-
-- React.js
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Shadcn UI
-- Zustand
-- Redux
-- TanStack Query
+![React](https://dzdw2zccyu2wu.cloudfront.net/overview/Frontend.svg)
 
 ### Backend
+![NodeJS](https://dzdw2zccyu2wu.cloudfront.net/overview/Backend.svg)
 
-- Node.js
-- Express.js
-- FastAPI
-- REST APIs
-- Prisma ORM
+### Tools & DevOps
+![Tools](https://dzdw2zccyu2wu.cloudfront.net/overview/Tools&DevOps.svg)
 
-### AI / GenAI
+### Cloud & Integration
+![Cloud](https://dzdw2zccyu2wu.cloudfront.net/overview/Cloud&Integration.svg)
 
-- OpenAI API
-- LangChain
-- LangGraph
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- MCP
-- Prompt Engineering
-- Vercel AI SDK
+</div>
 
-### Databases
+**Core Technologies:**
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express, RESTful APIs, WebSockets
+- **Database:** MongoDB, Redis
+- **DevOps:** Docker, Git, CI/CD
+- **Cloud:** AWS, GCD, Cloudflare
 
-- PostgreSQL
-- MongoDB
-- Redis
 
-### DevOps
 
-- Docker
-- GitHub Actions
-- Nginx
-- Vercel
-- Render
+## 🎨 Featured Projects
 
----
+### [StoreMyStuff](https://github.com/KunalKhandekar/Storage-App)
+> Full-stack cloud storage platform combining modern web tech with AWS infrastructure
 
-# 🚀 Featured Projects
+**Tech Stack:** MERN Stack, AWS S3, Redis, Razorpay
 
-## 🧠 AskCortex
+**Key Features:**
+- Secure user registration and login system
+- Drag-and-drop file upload with progress indicators
+- File sharing with links and permissions
+- Folder creation and organization
+- File preview and download capabilities
+- Responsive design for mobile and desktop
+- Storage quota management
 
-AI-powered chat platform supporting **30+ LLMs** with streaming responses, RAG pipelines, and model switching.
+### [CICD-SERVER](https://github.com/KunalKhandekar/Custom-CICD-Server)
+> Production-ready CI/CD server built without third-party platforms—complete control over your deployment pipeline
 
-**Tech**
+**Tech:** Node.js, Shell Scripting, Git Hooks, PM2  
+**Features:** 
+- Automated build and deployment on git push
+- Monorepo support with independent project pipelines
+- Custom deployment scripts and configurations
+- Webhook-triggered builds
+- Build logs and notification system
 
-Next.js • TypeScript • PostgreSQL • OpenRouter • Vercel AI SDK • TanStack Query
+#### More Projects Coming Soon... 🚧
 
-**Highlights**
+## 📊 GitHub Analytics
 
-- Multi-LLM support
-- Retrieval-Augmented Generation (RAG)
-- Context-aware conversations
-- Streaming AI responses
-- Persistent chat history
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KunalKhandekar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalKhandekar&theme=dark&hide_border=false" height="170" alt="GitHub Streak" />
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalKhandekar&theme=dark&hide_border=false&layout=compact&langs_count=8" height="170" alt="Top Languages" />
+</div>
 
-## 🎙️ Converso
+## 🏆 GitHub Achievements
 
-Real-time AI Voice Assistant with speech recognition and natural conversations.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KunalKhandekar&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
-**Tech**
 
-Next.js • OpenAI • Clerk • Supabase
+## 🤝 Let's Connect
 
-**Highlights**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <a href="mailto:kunalkhandekar.dev@gmail.com">
+          <img src="https://dzdw2zccyu2wu.cloudfront.net/overview/gmail.png" width="50" /><br/>
+          <sub><b>Email Me</b></sub>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="https://linkedin.com/in/sahil-khandekar-dev">
+          <img src="https://dzdw2zccyu2wu.cloudfront.net/overview/linkedin.png" width="50" /><br/>
+          <sub><b>Connect on LinkedIn</b></sub>
+        </a>
+      </td>
+      <td align="center" width="200">
+  <a href="https://x.com/_kunalkhandekar">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="50" /><br/>
+    <sub><b>Follow on X</b></sub>
+  </a>
+</td>
+    </tr>
+  </table>
+</div>
 
-- Speech-to-Text
-- LLM Processing
-- Text-to-Speech
-- Authentication
-- Conversation Memory
 
----
+<div align="center">
 
-## 💻 CodeZen
+*"The best way to predict the future is to build it."* – Alan Kay
 
-Full-stack coding platform with real-time code execution.
+> **Always learning. Always building. Always improving.**
 
-**Tech**
 
-Next.js • PostgreSQL • Judge0 API • TypeScript
-
-**Highlights**
-
-- Secure code execution
-- Multiple test cases
-- Online compiler
-- REST APIs
-- Submission history
-
----
-
-# 📈 Currently Learning
-
-- System Design
-- Microservices
-- Advanced AI Agents
-- DevOps
-- Kubernetes
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohd-hassan17&show_icons=true&theme=github_dark"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-hassan17&theme=github-dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-hassan17&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="mailto:ansarimohdhassan3@gmail.com">Email</a> •
-<a href="https://linkedin.com/in/mohd-hassan17">LinkedIn</a> •
-<a href="https://github.com/mohd-hassan17">GitHub</a> •
-<a href="https://hassandev-beta.vercel.app">Portfolio</a>
-
-</p>
-
----
-
-<p align="center">
-
-> **"Learning by building. Every project is an opportunity to create something meaningful."**
-
-</p>
+</div>
