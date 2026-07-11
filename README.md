@@ -139,13 +139,13 @@ const hassan = {
     <tr>
       <td align="center" width="200">
         <a href="mailto:ansarimohdhassan3@gmail.com">
-          📧<br/>
+          <img src="https://dzdw2zccyu2wu.cloudfront.net/overview/gmail.png" width="50" /><br/>
           <sub><b>Email Me</b></sub>
         </a>
       </td>
       <td align="center" width="200">
         <a href="https://www.linkedin.com/in/mohd-hassan17/">
-          💼<br/>
+          <img src="https://dzdw2zccyu2wu.cloudfront.net/overview/linkedin.png" width="50" /><br/>
           <sub><b>Connect on LinkedIn</b></sub>
         </a>
       </td>
