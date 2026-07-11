@@ -150,10 +150,10 @@ const hassan = {
         </a>
       </td>
       <td align="center" width="200">
-        <a href="https://hassandev-beta.vercel.app/">
-          🌐<br/>
-          <sub><b>Visit Portfolio</b></sub>
-        </a>
+         <a href="https://x.com/mohdhassana04">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="50" /><br/>
+    <sub><b>Follow on X</b></sub>
+  </a>
       </td>
     </tr>
   </table>
