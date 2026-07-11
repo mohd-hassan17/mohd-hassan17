@@ -1,17 +1,11 @@
 <h1 align="center">Hi, I'm Mohammed Hassan 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | GenAI Developer | BSc IT Graduate</strong>
+  <strong>Full Stack Developer & GenAI Developer</strong>
 </p>
 
 <p align="center">
   Building AI-powered products and scalable web applications with modern full-stack tools
-</p>
-
-<p align="center">
-  <a href="https://hassandev-beta.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/mohd-hassan17/">💼 LinkedIn</a> •
-  <a href="mailto:ansarimohdhassan3@gmail.com">📧 Email</a>
 </p>
 
 ---
