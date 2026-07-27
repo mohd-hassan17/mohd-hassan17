@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building AI-powered products and scalable web applications with modern full-stack tools
+  Building AI-powered products and scalable applications with modern full-stack tools
 </p>
 
 ---
