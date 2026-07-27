@@ -1,7 +1,7 @@
 <h1 align="center">Hii, I'm Mohammed Hassan 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer & GenAI Developer</strong>
+  <strong>Full Stack & GenAI Developer</strong>
 </p>
 
 <p align="center">
