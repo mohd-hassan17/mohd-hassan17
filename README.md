@@ -18,7 +18,7 @@ I'm a full stack developer focused on building AI-powered products — from mult
 const hassan = {
   location: "Mumbai, India",
   education: "BSc in Information Technology, Mumbai University (2026)",
-  currentFocus: ["Full Stack Development", "Generative AI", "RAG Pipelines", "LLM Integration"],
+  currentFocus: ["Full Stack Development", "Generative AI", "RAG Pipelines", "DevOps"],
   interests: ["AI Agents", "System Design", "Real-time Applications"],
   philosophy: "Learning by building — and understanding every line I ship.",
   openTo: ["Internships", "Full-time Roles", "Collaborations"]
