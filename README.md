@@ -92,7 +92,7 @@ const hassan = {
 ### [Converso](https://github.com/mohd-hassan17/converso)
 > Real-time AI voice assistant with multi-turn conversational memory
 
-**Tech Stack:** Next.js, React.js, Supabase, TypeScript, OpenAI, Clerk
+**Tech Stack:** Next.js, React.js, Supabase, TypeScript, OpenAI API, Clerk
 
 **Key Features:**
 - Speech-to-text, LLM processing, and text-to-speech pipeline
